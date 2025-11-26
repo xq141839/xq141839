@@ -419,10 +419,6 @@ def generate_markdown_section(stars: int, rank: dict, username: str) -> str:
 
 ⭐ **斗气值**: **{stars:,}** Stars
 
-```
-{progress_bar} {rank['progress']:.1f}%
-```
-
 {next_info}
 
 ---
