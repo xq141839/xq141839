@@ -1,7 +1,7 @@
 <!-- DOUPO_RANK_START -->
 <div align="center">
 
-## ⚔️ 斗破苍穹·修炼榜 ⚔️
+### ⚔️ 斗破苍穹·修炼榜 ⚔️
 
 <img src="https://img.shields.io/badge/境界-斗灵-9370DB?style=for-the-badge" alt="tier"/>
 <img src="https://img.shields.io/badge/等级-4星斗灵-9370DB?style=for-the-badge" alt="rank"/>
