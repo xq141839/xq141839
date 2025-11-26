@@ -1,0 +1,74 @@
+<svg width="450" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1025;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1520;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD700" />
+      <stop offset="50%" style="stop-color:#FFA500" />
+      <stop offset="100%" style="stop-color:#FFD700" />
+    </linearGradient>
+    <linearGradient id="progressGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9370DB" />
+      <stop offset="100%" style="stop-color:#9370DBaa" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="450" height="200" rx="15" fill="url(#bgGrad)"/>
+  <rect width="450" height="200" rx="15" fill="none" stroke="#9370DB40" stroke-width="2"/>
+  
+  <!-- 角落装饰 -->
+  <path d="M 0 35 L 0 15 Q 0 0 15 0 L 35 0" fill="none" stroke="#9370DB80" stroke-width="2"/>
+  <path d="M 450 165 L 450 185 Q 450 200 435 200 L 415 200" fill="none" stroke="#9370DB80" stroke-width="2"/>
+  
+  <!-- 标题 -->
+  <text x="225" y="28" text-anchor="middle" fill="url(#goldGrad)" font-size="13" font-weight="bold" font-family="sans-serif">
+    ⚔️ 斗破苍穹·修炼榜 ⚔️
+  </text>
+  
+  <!-- 大境界 -->
+  <text x="225" y="52" text-anchor="middle" fill="#ffffff60" font-size="11" font-family="sans-serif">
+    【 斗灵 境界 】
+  </text>
+  
+  <!-- 等级名称 -->
+  <text x="225" y="90" text-anchor="middle" fill="#9370DB" font-size="30" font-weight="bold" font-family="sans-serif" filter="url(#glow)">
+    🌕 4星斗灵 🌕
+  </text>
+  
+  <!-- Stars 数量 -->
+  <text x="225" y="120" text-anchor="middle" fill="#FFD700" font-size="18" font-weight="bold" font-family="sans-serif">
+    ⭐ 292 斗气
+  </text>
+  
+  <!-- 进度条背景 -->
+  <rect x="50" y="135" width="350" height="12" rx="6" fill="#ffffff15"/>
+  
+  <!-- 进度条填充 -->
+  <rect x="50" y="135" width="210.0" height="12" rx="6" fill="url(#progressGrad)"/>
+  
+  <!-- 进度百分比 -->
+  <text x="225" y="160" text-anchor="middle" fill="#ffffff60" font-size="10" font-family="sans-serif">
+    █████████░░░░░░ 60.0%
+  </text>
+  
+  <!-- 下一等级信息 -->
+  <text x="225" y="180" text-anchor="middle" fill="#ffffff50" font-size="10" font-family="sans-serif">
+    → 5星斗灵 (还需 8 ⭐)
+  </text>
+  
+  <!-- 等级序号 -->
+  <text x="420" y="25" text-anchor="end" fill="#ffffff30" font-size="9" font-family="sans-serif">
+    Lv.40/116
+  </text>
+</svg>
