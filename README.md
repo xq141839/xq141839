@@ -1,5 +1,4 @@
-![Qing's GitHub stats](https://github-immortality.vercel.app/api?xq141839=iceend)
-
+[![Qing's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)](https://github.com/xq141839)
 <!--
 **xq141839/xq141839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
