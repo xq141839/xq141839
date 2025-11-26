@@ -1,4 +1,4 @@
-![Qing's GitHub stats](https://github-readme-stats.vercel.app/api?username=xq141839)
+<!--![Qing's GitHub stats](https://github-readme-stats.vercel.app/api?username=xq141839)-->
 [![Qing's GitHub stats](https://github-immortality.vercel.app/api?username=xq141839)](https://github.com/xq141839)
 <!--
 **xq141839/xq141839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
