@@ -1,5 +1,5 @@
 <!-- DOUPO_RANK_START -->
-<div align="right">
+<div align="left">
 
 ### ⚔️ 斗破苍穹·修炼榜 ⚔️
 
