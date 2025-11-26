@@ -1,16 +1,14 @@
-<!--![Qing's GitHub stats](https://github-readme-stats.vercel.app/api?username=xq141839)-->
-[![Qing's GitHub stats](https://github-immortality.vercel.app/api?username=xq141839)](https://github.com/xq141839)
-<!--
-**xq141839/xq141839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h3>🔥 斗气大陆修炼进度 (Cultivation)</h3>
+    <img src="https://img.shields.io/badge/境界-斗之气·三段-lightgrey?style=for-the-badge&logo=github" alt="斗之气·三段" />
+    <br/>
+    <p>当前星力值 (Total Stars): <strong>0</strong></p>
+    <sub>“三十年河东，三十年河西，莫欺少年穷！”</sub>
+</div>
+<div align="center">
+    <h3>🔥 斗气大陆修炼进度 (Cultivation)</h3>
+    <img src="https://img.shields.io/badge/境界-斗之气·三段-lightgrey?style=for-the-badge&logo=github" alt="斗之气·三段" />
+    <br/>
+    <p>当前星力值 (Total Stars): <strong>0</strong></p>
+    <sub>“三十年河东，三十年河西，莫欺少年穷！”</sub>
+</div>
