@@ -379,17 +379,6 @@ def generate_rank_svg(stars: int, rank: dict, username: str) -> str:
     ⭐ {stars:,} 斗气
   </text>
   
-  <!-- 进度条背景 -->
-  <rect x="50" y="135" width="350" height="12" rx="6" fill="#ffffff15"/>
-  
-  <!-- 进度条填充 -->
-  <rect x="50" y="135" width="{rank['progress'] * 3.5}" height="12" rx="6" fill="url(#progressGrad)"/>
-  
-  <!-- 进度百分比 -->
-  <text x="225" y="160" text-anchor="middle" fill="#ffffff60" font-size="10" font-family="sans-serif">
-    {progress_bar} {rank['progress']:.1f}%
-  </text>
-  
   <!-- 下一等级信息 -->
   <text x="225" y="180" text-anchor="middle" fill="#ffffff50" font-size="10" font-family="sans-serif">
     {next_info}
