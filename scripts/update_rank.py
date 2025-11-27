@@ -404,7 +404,7 @@ def generate_markdown_section(stars: int, rank: dict, username: str) -> str:
     else:
         next_info = "👑 **已达巅峰，天下无敌！**"
     
-    markdown = f'''<div align="center">
+    markdown = f'''
 
 
 <img src="https://img.shields.io/badge/境界-{tier}-{tier_color}?style=for-the-badge" alt="tier"/>
@@ -412,7 +412,9 @@ def generate_markdown_section(stars: int, rank: dict, username: str) -> str:
 
 ⭐ **斗气值**: **{stars:,}** Stars
 
+{next_info}
 
+'''
 
     return markdown
 
