@@ -407,16 +407,11 @@ def generate_markdown_section(stars: int, rank: dict, username: str) -> str:
     markdown = f'''<div align="center">
 
 
-
 <img src="https://img.shields.io/badge/境界-{tier}-{tier_color}?style=for-the-badge" alt="tier"/>
 <img src="https://img.shields.io/badge/等级-{rank['name'].replace(' ', '_')}-{rank['color']}?style=for-the-badge" alt="rank"/>
 
-### {tier_emoji} {rank['name']} {tier_emoji}
-
-
 ⭐ **斗气值**: **{stars:,}** Stars
 
-{next_info}
 
 
     return markdown
