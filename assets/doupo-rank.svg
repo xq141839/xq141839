@@ -43,21 +43,21 @@
   
   <!-- 等级名称 -->
   <text x="225" y="90" text-anchor="middle" fill="#9370DB" font-size="30" font-weight="bold" font-family="sans-serif" filter="url(#glow)">
-    🌕 4星斗灵 🌕
+    🌕 5星斗灵 🌕
   </text>
   
   <!-- Stars 数量 -->
   <text x="225" y="120" text-anchor="middle" fill="#FFD700" font-size="18" font-weight="bold" font-family="sans-serif">
-    ⭐ 296 斗气
+    ⭐ 300 斗气
   </text>
   
   <!-- 下一等级信息 -->
   <text x="225" y="180" text-anchor="middle" fill="#ffffff50" font-size="10" font-family="sans-serif">
-    → 5星斗灵 (还需 4 ⭐)
+    → 6星斗灵 (还需 20 ⭐)
   </text>
   
   <!-- 等级序号 -->
   <text x="420" y="25" text-anchor="end" fill="#ffffff30" font-size="9" font-family="sans-serif">
-    Lv.40/116
+    Lv.41/116
   </text>
 </svg>
