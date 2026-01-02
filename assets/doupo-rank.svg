@@ -48,12 +48,12 @@
   
   <!-- Stars 数量 -->
   <text x="225" y="120" text-anchor="middle" fill="#FFD700" font-size="18" font-weight="bold" font-family="sans-serif">
-    ⭐ 338 斗气
+    ⭐ 339 斗气
   </text>
   
   <!-- 下一等级信息 -->
   <text x="225" y="180" text-anchor="middle" fill="#ffffff50" font-size="10" font-family="sans-serif">
-    → 7星斗灵 (还需 2 ⭐)
+    → 7星斗灵 (还需 1 ⭐)
   </text>
   
   <!-- 等级序号 -->
