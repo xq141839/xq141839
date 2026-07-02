@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/境界-斗灵-9370DB?style=for-the-badge" alt="tier"/>
 <img src="https://img.shields.io/badge/等级-9星斗灵-9370DB?style=for-the-badge" alt="rank"/>
 
-⭐ **斗气值**: **381** Stars
+⭐ **斗气值**: **380** Stars
 
-距离 **1星斗王** 还需 **19** ⭐
+距离 **1星斗王** 还需 **20** ⭐
 
 
 <!-- DOUPO_RANK_END -->
