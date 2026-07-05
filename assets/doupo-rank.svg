@@ -48,12 +48,12 @@
   
   <!-- Stars 数量 -->
   <text x="225" y="120" text-anchor="middle" fill="#FFD700" font-size="18" font-weight="bold" font-family="sans-serif">
-    ⭐ 381 斗气
+    ⭐ 382 斗气
   </text>
   
   <!-- 下一等级信息 -->
   <text x="225" y="180" text-anchor="middle" fill="#ffffff50" font-size="10" font-family="sans-serif">
-    → 1星斗王 (还需 19 ⭐)
+    → 1星斗王 (还需 18 ⭐)
   </text>
   
   <!-- 等级序号 -->
